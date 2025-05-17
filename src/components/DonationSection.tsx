@@ -113,7 +113,7 @@ export function DonationSection() {
                   application_context: {
                     brand_name: 'Clean Rivers Initiative',
                     shipping_preference: 'NO_SHIPPING',
-                    user_action: 'DONATE'
+                    user_action: 'PAY_NOW' // CORRECTED VALUE
                   }
                 });
               }}
